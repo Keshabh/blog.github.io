@@ -46,7 +46,7 @@
   justify-content: center;}
 .bottom-mid{width:350px;height:200px;background-color: black;}
 .socials img{width:45%;height:10%;}
-.socials img:hover{width:50%;height:10%;}
+.socials img:hover{width:50%;height:5%;}
 .socials td{text-align: center;padding: 10px;}
 .info td{text-align: center;padding-left: 30px;padding-right: 30px;}
 .info tr{width:100%;background-color: ;}
